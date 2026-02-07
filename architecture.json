@@ -1,0 +1,160 @@
+{
+  "book_id": "indigenous_resurgence_pastoral_nature_civilization",
+  "title": "The River's True Name",
+  "tagline": "To save the future, they must resurrect a forgotten language of the land.",
+  "target_words": 70000,
+  "actual_words": 73258,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Indigenous Resurgence vs. Colonial Progress",
+    "Land as Living Memory and Library",
+    "The Violence of Extraction and the Quiet Force of Renewal",
+    "Re-learning the Grammar of Nature"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Wound in the Meadow",
+      "words": 3050
+    },
+    {
+      "ch": 2,
+      "title": "The Council of Elders",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "The Archives of Mercy",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The First Song",
+      "words": 2850
+    },
+    {
+      "ch": 5,
+      "title": "The Surveyor's Map",
+      "words": 3000
+    },
+    {
+      "ch": 6,
+      "title": "Roots and Wires",
+      "words": 3200
+    },
+    {
+      "ch": 7,
+      "title": "The Ghost Dam",
+      "words": 2900
+    },
+    {
+      "ch": 8,
+      "title": "Dr. Vance's Calculus",
+      "words": 3100
+    },
+    {
+      "ch": 9,
+      "title": "The Camas Harvest",
+      "words": 2800
+    },
+    {
+      "ch": 10,
+      "title": "A Name on the Wind",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "The Edge of Mercy",
+      "words": 3150
+    },
+    {
+      "ch": 12,
+      "title": "The Mycelium Network",
+      "words": 3050
+    },
+    {
+      "ch": 13,
+      "title": "The Broken Treaty",
+      "words": 3300
+    },
+    {
+      "ch": 14,
+      "title": "Three Sisters Rock",
+      "words": 2850
+    },
+    {
+      "ch": 15,
+      "title": "The Water's Memory",
+      "words": 3100
+    },
+    {
+      "ch": 16,
+      "title": "The Machinery of Law",
+      "words": 3200
+    },
+    {
+      "ch": 17,
+      "title": "The Silent Walk",
+      "words": 2700
+    },
+    {
+      "ch": 18,
+      "title": "The Firekeeper's Tale",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "The River's Choice",
+      "words": 3400
+    },
+    {
+      "ch": 20,
+      "title": "Burning the Notices",
+      "words": 3100
+    },
+    {
+      "ch": 21,
+      "title": "The Sky-Spears Weep",
+      "words": 2900
+    },
+    {
+      "ch": 22,
+      "title": "Not a Metaphor",
+      "words": 3250
+    },
+    {
+      "ch": 23,
+      "title": "The Pause at the Edge",
+      "words": 3050
+    },
+    {
+      "ch": 24,
+      "title": "A New, Ancient Song",
+      "words": 3150
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where an elder teaches a child the true name of a local plant or animal, and the consequence of forgetting it.",
+      "Draft a council meeting in Mercy where a character must translate the concept of 'land as a library' to skeptical townspeople focused on jobs.",
+      "Create a journal entry from Dr. Vance's perspective after her first encounter with Kai, revealing a hidden doubt or a buried memory of nature.",
+      "Write a myth or 'teaching story' from the novel's world about the first time the machines spoke and the land fell silent."
+    ],
+    "technical": [
+      "Design a 'Living Map' interface that layers ecological data (animal paths, plant cycles, water flow) over a standard surveyor's grid, visualizing the conflict.",
+      "Prototype an audio tool that analyzes environmental soundscapes, identifying the 'health score' based on the presence or absence of key natural and industrial sounds."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Robin Wall Kimmerer",
+      "Ursula K. Le Guin",
+      "John Muir",
+      "Ruth Ozeki"
+    ]
+  },
+  "cover_prompt": "A young Indigenous linguist, her hand pressed against the bark of a colossal, ancient tree, witnesses glowing, root-like glyphs of a forgotten language pulse to life beneath her palm, within a mist-shrouded old-growth forest that whispers with ancestral memory. The scene is a tense confluence of worlds: behind her, the spectral, industrial silhouettes of clear-cut logging and a looming dam project bleed through the mist like a ghost, while before her, the vibrant, living forest thrums with bioluminescent flora and animal spirits woven into the foliage. In the atmospheric style of the luminous, detailed environmental paintings of James Gurney and the mythic, textured naturalism of Gregory Manchess, evoking a sense of deep time and sacred geography. Book cover framing, centered and intimate composition on the figure's connection with the tree, using a low-angle shot to emphasize the tree's majesty and the woman's determined reverence. Cinematic, directional lighting breaks through the canopy in god rays, illuminating the awakening glyphs in warm golds and earthy ochres, contrasting with the cool, desaturated blues and greys of the encroaching industrial ghosts. masterpiece, best quality, ultra detailed, intricate details of bark texture, glowing glyphs, and forest ecology, professional composition, sharp focus, 8k resolution, flux dev."
+}

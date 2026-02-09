@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The last steel pylon of the old hydro dam lay on the riverbank like a fallen rib. Kaya’s grandmother had told her its name: *Kwikwetlem*, the place of the red fish. Now, with the concrete gone, the water whispered a different name, one the elders were teaching them to hear again in the current’s new, ancient song.
+Kai’s fingers found the old scar on the maple—not a wound, but a treaty. His grandfather’s blade had cut the bark just so, long ago, and the tree had grown around the promise, swallowing the knife-mark into smooth, living wood. The city’s distant groan was a rumor here. This scar was a fact.
+
+
 
 
 Kai watched it from the high bank, the morning sun turning the deep current into a vein of flowing light. He wasn’t thinking of metaphors. He was thinking of the way the water pulled at the roots of the old cottonwood downstream, the way it had carved a new curve into the opposite bank since the spring melt, a raw, red gash in the earth. He was thinking of the fish that should be running thicker than this, their silver shadows just ghosts in the green. He was thinking of his grandfather’s hands, knotting a net, saying the river’s true name, a sound like water over stone, a name not written down.
